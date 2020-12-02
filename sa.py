@@ -1,4 +1,5 @@
-def sa(a):
+def sa():
+    global a
     if a == list():
         pass
     elif a[0] == a[-1]:
