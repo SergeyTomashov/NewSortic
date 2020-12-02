@@ -4,3 +4,4 @@ def pb():
         pass
     else:
         b = [a[0]] + b
+    a = a[1:]
