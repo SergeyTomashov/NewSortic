@@ -27,10 +27,6 @@ def sb():
 #а содержит два целых числовых значения
 
 
-def function():
-    pass
-
-
 def ss():
     sa()
     sb()
