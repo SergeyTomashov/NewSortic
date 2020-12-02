@@ -1,0 +1,3 @@
+def rrr():
+    rra()
+    rrb()
