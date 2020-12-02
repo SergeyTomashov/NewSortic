@@ -1,4 +1,5 @@
-def sb(b):
+def sb():
+    globall b
     if b == list():
         pass
     elif b[0] == b[-1]:
