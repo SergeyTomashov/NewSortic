@@ -4,3 +4,4 @@ def pa():
         pass
     else:
         a = [b[0]] + a
+    b = b[1:]
