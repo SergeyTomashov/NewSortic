@@ -18,8 +18,3 @@ def sb(b):
 def ss():
     sa(a)
     sb(b)
-
-ss()
-print(a)
-print(b)
-print('')
